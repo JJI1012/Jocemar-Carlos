@@ -17,7 +17,7 @@
 
 
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-red"/>
 </p>
 
 
