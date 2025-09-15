@@ -16,6 +16,38 @@
 </p>
 
 
+-------------
+ <div align=center>
+  <table style="width:100%">
+    <tr align=center>
+      <th><strong>Pato</strong></th>
+    </tr>
+    <tr align=center>
+      <td>
+        <a href="https://github.com/shyoutarou">
+          <img width="200" height="180" style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/66930143?s=460&u=9a46318c1563414a627c432d89b8ae53bf359430&v=4">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div> 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-red"/>
 </p>
