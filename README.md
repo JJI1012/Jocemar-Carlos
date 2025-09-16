@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Jocemar Carlos
-- 👀 Estudante de logistica
+<p align="center">
+ 
+ # Jocemar Carlos # 
+ 
+ # Estudante de logistica #
 
 <p align="center">
  <a href="https://git.io/typing-svg">
